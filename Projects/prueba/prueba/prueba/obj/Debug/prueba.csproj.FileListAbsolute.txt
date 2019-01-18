@@ -1,0 +1,17 @@
+c:\users\wcorrea\documents\visual studio 2017\Projects\prueba\prueba\prueba\bin\Debug\prueba.dll
+c:\users\wcorrea\documents\visual studio 2017\Projects\prueba\prueba\prueba\bin\Debug\prueba.pdb
+c:\users\wcorrea\documents\visual studio 2017\Projects\prueba\prueba\prueba\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\wcorrea\documents\visual studio 2017\Projects\prueba\prueba\prueba\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\wcorrea\documents\visual studio 2017\Projects\prueba\prueba\prueba\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\wcorrea\documents\visual studio 2017\Projects\prueba\prueba\prueba\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\wcorrea\documents\visual studio 2017\Projects\prueba\prueba\prueba\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\wcorrea\documents\visual studio 2017\Projects\prueba\prueba\prueba\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\wcorrea\documents\visual studio 2017\Projects\prueba\prueba\prueba\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\wcorrea\documents\visual studio 2017\Projects\prueba\prueba\prueba\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\wcorrea\documents\visual studio 2017\Projects\prueba\prueba\prueba\obj\Debug\prueba.csprojResolveAssemblyReference.cache
+c:\users\wcorrea\documents\visual studio 2017\Projects\prueba\prueba\prueba\obj\Debug\prueba.MainPage.xaml.g.cs
+c:\users\wcorrea\documents\visual studio 2017\Projects\prueba\prueba\prueba\obj\Debug\prueba.App.xaml.g.cs
+c:\users\wcorrea\documents\visual studio 2017\Projects\prueba\prueba\prueba\obj\Debug\prueba.dll
+c:\users\wcorrea\documents\visual studio 2017\Projects\prueba\prueba\prueba\obj\Debug\prueba.pdb
+c:\users\wcorrea\documents\visual studio 2017\Projects\prueba\prueba\prueba\obj\Debug\prueba.dll.mdb
+c:\users\wcorrea\documents\visual studio 2017\Projects\prueba\prueba\prueba\bin\Debug\prueba.dll.mdb
