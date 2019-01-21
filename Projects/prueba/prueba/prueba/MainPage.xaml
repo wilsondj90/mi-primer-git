@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:prueba"
              x:Class="prueba.MainPage">
 
-	<Label Text="Hola, bienvenido axamarin Forms!" 
+	<Label Text="Hola, bienvenido axamarin!" 
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
 
