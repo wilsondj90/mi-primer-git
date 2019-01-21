@@ -11,8 +11,8 @@
 namespace prueba {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\wcorrea\\Documents\\Visual Studio 2017\\Projects\\prueba\\prueba\\prueba\\MainP" +
-        "age.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\wcorrea\\Desktop\\practicas de Git\\mi-primer-git\\Projects\\prueba\\prueba\\pr" +
+        "ueba\\MainPage.xaml")]
     public partial class MainPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
