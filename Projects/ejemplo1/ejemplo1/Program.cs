@@ -8,6 +8,8 @@ namespace ejemplo1
         {
             Console.WriteLine("HOLA mundo!");
 
+            Console.WriteLine("como esta todo");
+
             Console.ReadLine();
         }
     }
